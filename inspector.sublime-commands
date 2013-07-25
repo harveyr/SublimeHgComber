@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "HgLogComber: Grep Selection",
+        "command": "hg_log_comb_grep_file"
+    },
+    {
+        "caption": "HgLogComber: Show Panel",
+        "command": "hg_log_comb_show_panel"
+    },
+]
