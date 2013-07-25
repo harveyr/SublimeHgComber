@@ -7,4 +7,8 @@
         "caption": "HgLogComber: Show Panel",
         "command": "hg_log_comb_show_panel"
     },
+    {
+        "caption": "HgLogComber: Log File",
+        "command": "hg_log_comb_log_file"
+    },
 ]
