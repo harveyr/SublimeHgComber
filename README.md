@@ -1,4 +1,4 @@
 SublimeHgComber
 ==================
 
-Sublime plugin to allow viewing and grepping of mercurial logs. Brand new. Working but not finished.
+Sublime plugin to allow viewing and grepping of mercurial logs. Working but not finished.
